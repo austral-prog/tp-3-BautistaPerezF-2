@@ -1,5 +1,5 @@
 def check_vowels():
-    nombre_a_apedir = input().lower()
+    nombre = input().lower()
     print("Contiene a:", 'a' in nombre)
     print("Contiene e:", 'e' in nombre)
     print("Contiene i:", 'i' in nombre)
