@@ -7,4 +7,4 @@ def slice_simple():
     antepenultimaultima = texto[-3:]
     print (primero)
     print(medio)
-    print (primeracuarta + antepenultimaultima)
+    print ((primeracuarta + antepenultimaultima).lower())
